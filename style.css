@@ -1,1 +1,25 @@
-
+*{margin0;  padding:0}
+herder{ 
+        height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        border: 1px solid black;
+}
+hearder nav ul{
+        display: flex;
+}
+herder nav ul li{ 
+        list-style:none;
+        margin: 10px;
+}
+herder nav ul li a{
+         text-decoration: none;
+         color: #333;
+}
+herder nav ul li a:houver{ 
+         color: yellow;
+}
+herder img{ 
+        height: 100%;
+}
