@@ -23,3 +23,23 @@ herder nav ul li a:houver{
 herder img{ 
         height: 100%;
 }
+section#noticias ul li{
+        list-style:nome;
+        width: 350px;
+        height: 350px;
+        background: gray;
+}
+section#noticias img{
+        text-align: center;
+        height: 100px;
+        width: 100px;
+        box-shadow: 5px 0px 0px 0px #00000030;
+}
+section#noticias .ctegoria{
+ text-align: center;
+}
+section#noticias h2{
+        font-size: 35px;
+        color: #333333;
+        text-align: center;
+}
