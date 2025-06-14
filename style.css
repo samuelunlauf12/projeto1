@@ -37,7 +37,7 @@ section#noticias ul li{
 	list-style:none;
 	width: 350px;
 	height: 350px;
-	background: gray;
+	margin: 5px;
 }
 section#noticias img{
 	text-align: center;
@@ -63,6 +63,9 @@ section#noticias h3{
 	font-family: Arial;
 	margin: 25px 0;
 	text-transform: uppercase;
+}
+section#noticias ul{
+       display: flex;
 }
 section#noticias ul li a{
        text-align: center;
