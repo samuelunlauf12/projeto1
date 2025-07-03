@@ -104,3 +104,19 @@ section#projetos ul li h3{
 	position: absolute;
 	bottom: 30px;
 }
+section#projetos ul li{
+overflow: widden;
+height: 450px;
+margin: 10px;
+position: reltive;
+border-radius: 30px;
+}
+section#projetos ul li img{
+}
+section#projetos ul li h3{
+position: absolute;
+bottom: 30px;
+background: blue;
+color: #fff;
+padding: 10px;
+}
