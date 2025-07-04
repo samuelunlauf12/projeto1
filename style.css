@@ -96,6 +96,8 @@ section#projetos ul li{
 	border: 1px solid black;
 	margin: 10px;
 	position: relative;
+    border-radius: 30px;
+    border: none;
 }
 section#projetos ul li img{
 
@@ -119,4 +121,22 @@ bottom: 30px;
 background: blue;
 color: #fff;
 padding: 10px;
+}
+footer{
+height: 350px;
+background: blue;
+color: #fff;
+display: flex;
+width: 1100px;
+margin: 0 auto;
+}
+footer .logo{
+width: 400px;
+}
+footer .logo{
+width:100%;
+}
+footer ul li{
+line-height: 50px;
+list-style: none;
 }
